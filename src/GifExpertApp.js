@@ -4,7 +4,7 @@ import { GifGrid } from './components/GifGrid';
 //RAFC
 
 const GifExpertApp =() =>{
-    const [categories, setCategories] = useState([''])
+    const [categories, setCategories] = useState(['Memes'])
     // const handleAdd = ()=>{
     //     // setCategories( [ ...categories, 'HunterxHunter'] );
     //     setCategories( cats => [...categories, 'HunterXHunter'])
